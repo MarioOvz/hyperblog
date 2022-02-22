@@ -6,4 +6,5 @@ ubunto
 terminal y
 visual studio
 al mismo tiempo
-:/
+
+Vamos a ver los segundos cambios
